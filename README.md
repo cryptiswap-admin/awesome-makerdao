@@ -814,6 +814,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 #### Non-Custodial Exchanges
 
+* [Cryptiswap](https://cryptiswap.org/)
 * [Changelly](https://changelly.com/)
 * [DDex](https://ddex.io/spot/ETH-DAI)
 * [DeversiFi](https://trustless.ethfinex.com/DAIETH)
